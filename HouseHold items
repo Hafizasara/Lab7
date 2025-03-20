@@ -1,0 +1,6 @@
+Console.Writeline("LIST OF household items is:
+Sheets,
+Chairs,
+Beds,
+Refrigerator,
+Tables.");
