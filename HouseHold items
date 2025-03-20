@@ -4,3 +4,7 @@ Chairs,
 Beds,
 Refrigerator,
 Tables.");
+
+
+
+Console.WriteLine("Air conditioners");
